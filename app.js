@@ -33,7 +33,7 @@ var material = new THREE.MeshBasicMaterial({color: 0x00ff00});
 var cube = new THREE.Mesh(geometry, material);
 
 // Then add cube to our scene
-// scene.add(cube);
+scene.add(cube);
 
 // create a point light
 var pointLight = new THREE.PointLight(0xFFFFFF);
@@ -58,3 +58,5 @@ function render() {
    cube.rotation.y += 0.1;
 	renderer.render(scene, camera);
 }
+
+// 86% deletion
