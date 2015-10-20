@@ -205,4 +205,8 @@ Then spent a good chunk of the night reading through the example file code/watch
 
 #### Update:
 
-As of this morning I still have yet to render anything.  
+As of this morning I still have yet to render anything.
+
+However, I have (since my way intot he city) found a [Repo](https://github.com/josdirksen/learning-threejs) spcifically for learning Three.js. It's set up in levels and challenges, so that's what I plan to do next and I'd encourage anyone else insterested in Three.js to do the same.
+
+# Thanks All! 
