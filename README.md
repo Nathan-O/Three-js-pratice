@@ -7,6 +7,32 @@ Three.js is a pure Javascript language used to create three dimensional (3D) obj
 
 It's a javascript library created not too long ago, and it still largely in development. But a lot of fun has been had with is so far since its creation. [Repo](https://github.com/mrdoob/three.js/)
 
+### Setup
+
+In theory, set up is not hard. All you need to do is require Three.js in your HTML document `<head>`. This can be done a couple different ways:
+
+```
+		// There's an NPM
+	npm install --save three
+
+		// CDN
+	https://cdnjs.cloudflare.com/ajax/libs/three.js/r73/three.min.js
+
+```
+
+Add a three.js script tag to the `<head>` and you're set to go.
+
+Also, probably not a bad idea to run this on a server:
+
+```
+	python -m SimpleHTTPServer
+
+		// localhost:8000
+
+```
+
+However this isn't essential most of the time. Simply running the HTML in the browser will work as well
+
 # BASICS
 
 ### Camera

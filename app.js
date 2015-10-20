@@ -58,5 +58,3 @@ function render() {
    cube.rotation.y += 0.1;
 	renderer.render(scene, camera);
 }
-
-// 86% deletion
