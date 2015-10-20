@@ -93,7 +93,7 @@ pointLight.position.z = 130;
 
 ### Objects
 
-#####Shape object, Geometry, & Material.
+####Shape object, Geometry, & Material.
 
 *Material* is the look of your object. In the [material](http://threejs.org/docs/#Reference/Materials/Material) is where you set the color, texture, brightness, shadow, etc. CSS can't be used on shape objects within your scene, instead the styling is declared within a material.
 
@@ -177,6 +177,6 @@ I read through (if the browser tabs are correct) 12 different tutorials on how t
 
 Then spent a good chunk of the night reading through the example file code/watched a video game (watched?).
 
-##### Update:
+#### Update:
 
 As of this morning I still have yet to render anything.  
