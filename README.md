@@ -199,7 +199,7 @@ The things you read are a lie. There is a background needed to some degree to si
 
 ### My Jounrey
 
-I read through (if the browser tabs are correct) 12 different tutorials on how to make and render a cube. Completly scraped and started my code over more than a couple times. And when as far as to fork/clone the source library.
+I read through (if the browser tabs are correct) 12 different tutorials on how to make and render a cube. Completly scraped and started my code over more than a couple times. Found a "DownLoad Source Code" and opend a beautiful minified versions of three JS files. And went as far as to fork/clone the source library.
 
 Then spent a good chunk of the night reading through the example file code/watched a video game (watched?).
 
@@ -209,4 +209,4 @@ As of this morning I still have yet to render anything.
 
 However, I have (since my way intot he city) found a [Repo](https://github.com/josdirksen/learning-threejs) spcifically for learning Three.js. It's set up in levels and challenges, so that's what I plan to do next and I'd encourage anyone else insterested in Three.js to do the same.
 
-# Thanks All! 
+# Thanks All!
